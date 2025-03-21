@@ -1,3 +1,4 @@
+
 *{
     margin: 0;
     padding: 0;
@@ -10,4 +11,51 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+}
+.nav {
+    font-size: 40px;
+}
+.tglk {
+    color: rgb(193, 193, 193);
+    display: inline-block;
+    background-color: #0088cc; 
+    text-align: center; 
+    padding: 10px 179px; 
+    text-decoration: none; 
+    border-radius: 20px;
+  
+}
+.tglk:hover{
+    color: rgb(255, 255, 255);
+    background-color: #009fef; 
+
+
+}
+.stlk {
+    color: rgb(193, 193, 193);
+    display: inline-block;
+    background-color: #336;  
+    text-align: center; 
+    padding: 10px 179px; 
+    text-decoration: none; 
+    border-radius: 20px;
+}
+.stlk:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(78, 78, 156); 
+
+}
+.tblk {
+    color: rgb(193, 193, 193);
+    display: inline-block;
+    background-color: rgb(183, 146, 37);  
+    text-align: center; 
+    padding: 10px 179px; 
+    text-decoration: none; 
+    border-radius: 20px;
+}
+.tblk:hover{
+    color: rgb(255, 255, 255);
+    background-color: rgb(227, 181, 44); 
+
 }
